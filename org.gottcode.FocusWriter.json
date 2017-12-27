@@ -18,10 +18,9 @@
 			"buildsystem": "simple",
 			"sources": [
 				{
-					"type": "git",
-					"url": "https://github.com/gottcode/focuswriter.git",
-					"branch": "v1.6.7",
-					"commit": "df6fa47aff6368303b75cf7f8dcc5cd0734ccfee"
+					"type": "archive",
+					"url": "https://github.com/gottcode/focuswriter/archive/v1.6.8.tar.gz",
+					"sha256": "0afef6b2d5476c00afd80d2daa6a12ad0424a68612b081a9690ad8d02e9349d2"
 				}
 			],
 			"build-commands": [
