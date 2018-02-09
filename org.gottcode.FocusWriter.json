@@ -10,6 +10,7 @@
 	"finish-args": [
 		"--socket=wayland",
 		"--socket=x11",
+		"--share=ipc",
 		"--filesystem=home"
 	],
 	"modules": [
@@ -19,8 +20,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://github.com/gottcode/focuswriter/archive/v1.6.8.tar.gz",
-					"sha256": "0afef6b2d5476c00afd80d2daa6a12ad0424a68612b081a9690ad8d02e9349d2"
+					"url": "https://github.com/gottcode/focuswriter/archive/v1.6.9.tar.gz",
+					"sha256": "46e69cc3a5d3b2a3a9c8b89464f463c2f62b7652f3e0b508a8ef99e576f67b3a"
 				}
 			],
 			"build-commands": [
