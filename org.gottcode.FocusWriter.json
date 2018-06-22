@@ -17,18 +17,13 @@
 	"modules": [
 		{
 			"name": "focuswriter",
-			"buildsystem": "simple",
+			"buildsystem": "qmake",
 			"sources": [
 				{
 					"type": "archive",
 					"url": "https://github.com/gottcode/focuswriter/archive/v1.6.10.tar.gz",
 					"sha256": "ce7ceaac04fa915db527da88f1018648be18d5a5638ccb60893b4f1b3cb490e5"
 				}
-			],
-			"build-commands": [
-				"qmake -makefile PREFIX=/app",
-				"make",
-				"make install"
 			]
 		}
 	]
