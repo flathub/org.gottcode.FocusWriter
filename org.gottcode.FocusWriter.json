@@ -12,8 +12,7 @@
 		"--socket=x11",
 		"--socket=pulseaudio",
 		"--share=ipc",
-		"--filesystem=home",
-		"--filesystem=xdg-config/kdeglobals:ro"
+		"--filesystem=home"
 	],
 	"cleanup": [
 		"/share/icons/hicolor/1024x1024"
