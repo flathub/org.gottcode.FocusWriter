@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.FocusWriter",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "5.15-21.08",
+	"runtime-version": "6.2",
 	"sdk": "org.kde.Sdk",
 	"command": "focuswriter",
 	"rename-icon": "focuswriter",
@@ -24,8 +24,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/focuswriter/focuswriter-1.7.6-src.tar.bz2",
-					"sha256": "34f576a49c9fe64aedad66e02efafc29c840b6c3ddc98a42d87dfda499710541"
+					"url": "https://gottcode.org/focuswriter/focuswriter-1.8.0-src.tar.bz2",
+					"sha256": "114897e2fa697e32cbf81c3ced8dc6d56ea8584956348ab607f3530c991ce7d8"
 				}
 			]
 		}
