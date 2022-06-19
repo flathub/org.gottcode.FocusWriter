@@ -20,7 +20,7 @@
 	"modules": [
 		{
 			"name": "focuswriter",
-			"buildsystem": "qmake",
+			"buildsystem": "cmake-ninja",
 			"sources": [
 				{
 					"type": "archive",
