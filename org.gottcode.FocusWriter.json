@@ -24,8 +24,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/focuswriter/focuswriter-1.8.5.tar.bz2",
-					"sha256": "3b4187ce903c55aa7fad688b1768fdcccc9f026da4a35564dcaa99cb2bee7654"
+					"url": "https://gottcode.org/focuswriter/focuswriter-1.8.6.tar.bz2",
+					"sha256": "6bebdf501e58d7d3a426fda31e7eb5236d5e1347b3b0265286ee1afb667cbd4c"
 				}
 			]
 		}
