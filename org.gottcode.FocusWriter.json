@@ -26,6 +26,10 @@
 					"type": "archive",
 					"url": "https://gottcode.org/focuswriter/focuswriter-1.8.11.tar.bz2",
 					"sha256": "89db786aa6919962068971defd8106da4a4decd43f2525dce48bc9f95bbfd3f7"
+				},
+				{
+					"type": "patch",
+					"path": "fix-compile.patch"
 				}
 			]
 		}
